@@ -11,6 +11,7 @@ I focus on building high-performance, scalable web and mobile applications with 
 | :--- | :--- | :--- |
 | **Just Upp** | A corporate health & movement platform developed in collaboration with Faydam İnovasyon. | .NET Core, Angular, Mobile |
 | **Arrows Glass** | A puzzle game featuring high-end glassmorphism design and procedural level generation. | Game Logic, UI/UX |
+| **Tube Match** | A strategic color-sorting puzzle game with fluid mechanics and vibrant visuals. | Mobile Game Logic, UI |
 | **Promptify** | An AI-powered mobile application published on the App Store for creative prompt management. | AI, App Store, Mobile |
 
 ---
