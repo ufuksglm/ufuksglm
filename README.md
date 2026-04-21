@@ -1,4 +1,4 @@
-# Hi there, I'm Ufuk Sağlam! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/hp3Teq9rMctY9qI0W9/giphy.gif" width="35">
+# Hi there, I'm Ufuk Sağlam! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4ZDI4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hp3Teq9rMctY9qI0W9/giphy.gif" width="35">
 
 ### Full-stack Developer & UI/UX Enthusiast
 I focus on building high-performance, scalable web and mobile applications with a strong emphasis on modern design principles. Currently crafting digital experiences with **.NET Core**, **Angular**, and **AI integrations**.
@@ -36,12 +36,15 @@ I focus on building high-performance, scalable web and mobile applications with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufuksglm&layout=compact&theme=tokyonight&hide_progress=false&cache_seconds=1800" alt="Top Langs" height="180px" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufuksglm&theme=tokyonight" alt="Ufuk's Streak" />
+</p>
+
 ---
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ufuk-sağlam-91106525a/)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.ufuksaglam.com)
 
 ---
-*"Code is like humor. When you have to explain it, it’s bad."*
