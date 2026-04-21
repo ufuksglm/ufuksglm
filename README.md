@@ -32,8 +32,8 @@ I focus on building high-performance, scalable web and mobile applications with 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ufuksglm&show_icons=true&theme=tokyonight&count_private=true" alt="Ufuk's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufuksglm&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ufuksglm&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ufuk's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufuksglm&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Langs" height="180px" />
 </p>
 
 ---
